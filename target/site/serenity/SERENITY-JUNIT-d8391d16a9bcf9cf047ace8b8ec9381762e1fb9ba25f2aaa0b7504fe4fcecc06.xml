@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="web_tests_lab5.olx_tests.LoginTest" skipped="0" tests="1" time="7.36" timestamp="2021-05-08 11:34:25"><testcase classname="web_tests_lab5.olx_tests.LoginTest" name="Login"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+web_tests_lab5.pages.OLXPage.clickLogin(OLXPage.java:52)&#13;
+web_tests_lab5.steps.serenity.EndUserSteps.login(EndUserSteps.java:17)&#13;
+web_tests_lab5.olx_tests.LoginTest.login(LoginTest.java:28)&#13;
+</system-err></testcase></testsuite>

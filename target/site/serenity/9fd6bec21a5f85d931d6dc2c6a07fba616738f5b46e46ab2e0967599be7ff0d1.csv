@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login test","Valid login","SUCCESS","2021-05-09T18:43:59.9534969+03:00[Europe/Athens]","0.0","2.32"
+"Login test","Invalid login","SUCCESS","2021-05-09T18:44:00.1164885+03:00[Europe/Athens]","0.0","1.74"

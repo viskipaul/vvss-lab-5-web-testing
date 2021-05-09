@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: web_tests_lab5.olx_tests.LoginTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 10.828 s <<< FAILURE! - in web_tests_lab5.olx_tests.LoginTest
+login(web_tests_lab5.olx_tests.LoginTest)  Time elapsed: 7.389 s  <<< ERROR!
+net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException: 
+Expected enabled element was not enabled
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LAPTOP-', ip: '192.168.0.166', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: driver.version: unknown
+	at web_tests_lab5.olx_tests.LoginTest.login(LoginTest.java:28)
+

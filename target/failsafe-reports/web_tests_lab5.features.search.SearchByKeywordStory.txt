@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: web_tests_lab5.features.search.SearchByKeywordStory
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 2, Skipped: 1, Time elapsed: 26.257 s <<< FAILURE! - in web_tests_lab5.features.search.SearchByKeywordStory
+searching_by_keyword_banana_should_display_the_corresponding_article(web_tests_lab5.features.search.SearchByKeywordStory)  Time elapsed: 13.355 s  <<< ERROR!
+net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException: 
+Expected enabled element was not enabled
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LAPTOP-', ip: '192.168.0.166', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: driver.version: unknown
+	at web_tests_lab5.features.search.SearchByKeywordStory.searching_by_keyword_banana_should_display_the_corresponding_article(SearchByKeywordStory.java:36)
+
+searching_by_keyword_apple_should_display_the_corresponding_article(web_tests_lab5.features.search.SearchByKeywordStory)  Time elapsed: 11.311 s  <<< ERROR!
+net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException: 
+Expected enabled element was not enabled
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-LAPTOP-', ip: '192.168.0.166', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
+Driver info: driver.version: unknown
+	at web_tests_lab5.features.search.SearchByKeywordStory.searching_by_keyword_apple_should_display_the_corresponding_article(SearchByKeywordStory.java:28)
+

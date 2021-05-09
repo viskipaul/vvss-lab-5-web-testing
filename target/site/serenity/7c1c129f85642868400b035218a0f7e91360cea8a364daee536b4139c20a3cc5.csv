@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login test","Valid login","SUCCESS","2021-05-09T18:43:59.9534969+03:00[Europe/Athens]","0.0","2.32"
+"Login test","Invalid login","SUCCESS","2021-05-09T18:44:00.1164885+03:00[Europe/Athens]","0.0","1.74"
+"Invalid login test","Invalid login","SUCCESS","2021-05-09T19:23:46.8997324+03:00[Europe/Athens]","0.0","2.14"
+"Scenario test","Buy scenario","SUCCESS","2021-05-09T19:23:57.0695687+03:00[Europe/Athens]","0.0","6.26"
+"Valid login test","Valid login","SUCCESS","2021-05-09T19:24:01.8269241+03:00[Europe/Athens]","0.0","1.96"

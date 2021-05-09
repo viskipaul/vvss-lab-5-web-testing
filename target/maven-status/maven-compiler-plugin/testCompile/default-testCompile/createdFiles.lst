@@ -1,0 +1,6 @@
+web_tests_lab5\features\login\ScenarioTest.class
+web_tests_lab5\steps\serenity\EndUserSteps.class
+web_tests_lab5\features\login\ValidLoginTest.class
+web_tests_lab5\features\login\package-info.class
+web_tests_lab5\features\login\InvalidLoginTest.class
+web_tests_lab5\pages\WebPage.class
